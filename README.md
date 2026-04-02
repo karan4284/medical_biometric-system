@@ -40,10 +40,10 @@ verification and onboarding approval.
 
 ## Folder Structure
 medical-biometric-system/
-├── docs/
-├── diagrams/
-├── src/
 ├── database/
+├── diagrams/
+├── docs/
+├──src /
 └── testing/
 
 ---
